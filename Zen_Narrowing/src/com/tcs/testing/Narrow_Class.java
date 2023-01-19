@@ -9,9 +9,9 @@ public class Narrow_Class {
 		
 		System.out.println("the value of long =" + h);
 		
-		int j =  (int) h ;
+		int k =  (int) h ;
 		
-		System.out.println("the value of int =" + j);
+		System.out.println("the value of int =" + k);
 	}
 	
 	
